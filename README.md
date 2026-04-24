@@ -77,14 +77,7 @@ cd project
 3. Run the project:
 
 * Open `h1.html` in browser
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here for better presentation)
-
----
+'''
 
 ## 🔥 Future Improvements
 

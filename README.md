@@ -77,7 +77,7 @@ cd project
 3. Run the project:
 
 * Open `h1.html` in browser
-'''
+---
 
 ## 🔥 Future Improvements
 

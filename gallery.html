@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - ShrubBrewWorld</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <a href="h1.html">
+                <img src="./image/logo.png" alt="ShrubBrewWorld Logo" class="main-logo">
+            </a>
+        </div>
+        <div class="hamburger" id="hamburger">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <nav id="nav-menu">
+            <ul>
+                <li><a href="h1.html">Home</a></li>
+                <li><a href="h1.html#menu-section">Our Product</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="gallery.html" class="active">Gallery</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="page-hero">
+        <div class="content">
+            <h1>GALLERY</h1>
+            <p>A visual journey through our craft and cafe culture.</p>
+        </div>
+    </section>
+
+    <section class="gallery-grid-page">
+        <div class="gallery-grid">
+            <img src="./image/latte.jpg" alt="Latte Art" data-gallery="./image/cappuccino.jpg,./image/espresso.png">
+            <img src="./image/cappuccino.jpg" alt="Cappuccino"
+                data-gallery="./image/latte.jpg,./image/hot_chocolate.jpg">
+            <img src="./image/americano.jpg" alt="Americano" data-gallery="./image/espresso.png,./image/tea.jpg">
+            <img src="./image/croissant.jpg" alt="Pastries" data-gallery="./image/muffin.jpg,./image/bagel.jpg">
+            <img src="./image/bg.jpeg" alt="Cafe Interior" data-gallery="./image/ice_coffee.jpg,./image/tea.jpg">
+            <img src="./image/ice_coffee.jpg" alt="Iced Beverages" data-gallery="./image/latte.jpg,./image/tea.jpg">
+            <img src="./image/muffin.jpg" alt="Gourmet Muffins"
+                data-gallery="./image/croissant.jpg,./image/bagel.jpg">
+            <img src="./image/bagel.jpg" alt="Fresh Bagels" data-gallery="./image/croissant.jpg,./image/muffin.jpg">
+        </div>
+    </section>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

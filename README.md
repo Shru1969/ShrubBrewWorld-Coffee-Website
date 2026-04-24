@@ -46,7 +46,7 @@ A modern, animated coffee website with a **cinematic intro (coffee brewing video
 ## 🛠️ Technologies Used
 
 * HTML5
-* CSS3 (Animations + Responsive Design(both web as well as mobile interface usable))
+* CSS3 (Animations + Responsive Design)
 * JavaScript (DOM + Interactivity)
 
 ---
@@ -90,7 +90,7 @@ cd project
 
 ## 👨‍💻 Author
 
-Developed by **Shruti Thorat**
+Developed by **✨ Shruti Thorat ✨**
 
 ---
 
